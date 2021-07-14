@@ -11,7 +11,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://avatars.githubusercontent.com/u/86772799?s=200&u=4e46ec2943c5ea1ff2ee87a2d516ffd239dee533&v=4)
 
 <!-- Add your details -->
 
@@ -21,43 +21,43 @@ I am __Edward Choo__,
 <!-- Add link to the sections -->
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
+<!-- [Projects](#projects) <br>
+[Featured](#featured) <br> -->
 
 <!-- ABOUT Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### Hotelbeds Pte. Ltd.
+Merchandising Manager (E-Commerce Consultant)<br>
+Nov 2018 to Jan 2021: 2 year 3 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+ROLE: Data Analyst | Sales & Marketing | Key Account Manager
+UNIT: B2C E-Commerce
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+Formulated sales and marketing strategy through rigourous data analytics. Built a data visualisation tool using Power BI with 5 external data sources.
 
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### National University of Singapore
+Bachelor of Arts (Political Science) 2011-14, with Merit
 
 <!-- EDUCATION Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+<!-- ### PROJECTS -->
 <!-- Add your details -->
 
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
+<!-- [Classification based projects](#classification-based-projects) <br> -->
+<!-- [Regression based projects](#regression-based-projects) <br> -->
 
 <!-- Add your details -->
 
-#### Classification based projects
+<!-- #### Classification based projects
 ![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
 
 In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
@@ -69,16 +69,16 @@ In machine learning, classification refers to a predictive modeling problem wher
 
 Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
 
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression) -->
 
 <!-- PROJECTS Section Ends -->
 
 <!-- FEATURED Section Starts -->
-## FEATURED
+<!-- ## FEATURED -->
 <!-- Add your details -->
-##### Certifications
+<!-- ##### Certifications
 Machine Learning by Columbia University
 
 ##### Achievements
-Star performer of the year at Accenture
+Star performer of the year at Accenture -->
 <!-- FEATURED Section Ends -->
